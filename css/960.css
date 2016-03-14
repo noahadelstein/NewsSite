@@ -106,20 +106,22 @@ body {
   width: 300px;
 }
 #col1 {
-  width: 350px;
+  width: 320px;
   margin-left: 1065px;
+position: relative;
+  bottom: 20px;
 }
 #col2 {
 position: relative;
-bottom: 1820px;
-  width: 350px;
-    margin-left: 15px;
+bottom: 1772px;
+  width: 320px;
+    margin-left: 45px;
 }
 #col3 {
 position: relative;
-bottom: 3567px;
-  width: 650px;
-    margin-left: 390px;
+bottom: 3776px;
+  width: 700px;
+    margin-left: 365px;
 }
 
 

@@ -10,12 +10,12 @@ body {
 }
 
 a {
-  color: white;
+  color: black;
   text-decoration: none;
 }
 
 a:hover {
-  color: #FFF;
+  color: #002244;
   text-decoration: none;
 }
 
@@ -31,9 +31,16 @@ h1 small {
 .box {
   background-color: #FB4F14;
 }
+#col3 {
+  background-color: white;
+  color: black;
+}
 
 .box a.read-more {
   text-decoration: underline;
+}
+#read {
+  color: #FB4F14;
 }
 
 .footer {
