@@ -11,6 +11,19 @@
   padding-right: 900px;
 
 }
+input, textarea{
+  font-size: 120%;
+  color: #002244;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 5px 5px 5px 5px;
+  display: block;
+  margin-bottom: 10px;
+}
+input:focus, input:hover, textarea:hover, textarea:focus {
+  background-color: #FB4F14;
+  border: 2px solid black;
+}
 #col2top {
   text-align: center;
   font-weight: bold;
