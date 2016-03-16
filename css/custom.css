@@ -1,12 +1,30 @@
 .header {
-  width: 100% auto;height: 500px;
-  background-image: url(../img/header.jpg);
+  width: 100% auto;height: 600px;
+  background-image: url(../img/header1.png);
+  opacity: inherit;
   background-repeat: no-repeat;
   background-position: center;
   background-color: inherit;
-  color: white;
-  font-size: 50px;
-  padding-top: 200px;
+  color: #FB4F14;
+  font-size: 70px;
+  padding-top: 50px;
+  padding-right: 900px;
+
+}
+#col2top {
+  text-align: center;
+  font-weight: bold;
+}
+.frame {
+  padding-left: 935px;
+padding-top: 280px;
+  z-index: 100;
+}
+.dark {
+  font-weight: bold;
+}
+#hello {
+
 
 }
 background-repeat: no-repeat;
