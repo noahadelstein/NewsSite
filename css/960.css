@@ -113,17 +113,17 @@ position: relative;
 }
 #col2 {
 position: relative;
-bottom: 1772px;
+bottom: 1572px;
   width: 320px;
     margin-left: 45px;
 }
 #col3 {
 position: relative;
-bottom: 3776px;
+bottom: 3476px;
   width: 700px;
     margin-left: 365px;
 }
-
+/*200 for 2 and 30 for 3*/
 
 /* `Grid >> 16 Columns
 ----------------------------------------------------------------------------------------------------*/
