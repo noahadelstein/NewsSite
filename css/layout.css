@@ -8,8 +8,9 @@
 
 body {
   padding-top: 10px;
-  position: absolute; top: 0; left: 0; height: 100%; width: 100%;
+  position: absolute; top: 0; left: 0;  width: 100%;
    padding-bottom: 0px;
+   height: 1000px;
 }
 .box {
 
@@ -28,4 +29,8 @@ body {
 }*/
 .header {
   text-align:center;
+}
+html {
+
+ /*min-height: 100%;*/
 }

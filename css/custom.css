@@ -35,6 +35,14 @@ padding-top: 280px;
 }
 .dark {
   font-weight: bold;
+
+}
+#Other {
+  color: #002244;
+  font-size: 30px;
+}
+#dark {
+  font-size: 30px;
 }
 #hello {
 
@@ -44,7 +52,7 @@ background-repeat: no-repeat;
 background-position: center 400px;
 html, body {
     margin: 0;
-    height: 100%;
+    /*height: 100%;*/
     width: 100%;
     z-index: 99;
 }
@@ -75,7 +83,40 @@ padding-bottom: 40px;
     font-size: 20px;
 padding-bottom: 40px;
 }
+#art6 {
+    font-size: 20px;
+padding-bottom: 38px;
+}
+#art7 {
+  font-size: 20px;
+  padding-bottom: 30px;
+}
 
+#art8 {
+    font-size: 20px;
+padding-bottom: 30px;
+}
+#art9 {
+  font-size: 20px;
+
+padding-bottom: 30px;
+}
+
+#art10{
+    font-size: 20px;
+padding-bottom: 30px;
+}
+#art11 {
+    font-size: 20px;
+padding-bottom: 30px;
+}
+#art12 {
+    font-size: 20px;
+padding-bottom: 11px;
+}
+#mission {
+  font-size: 16px;
+}
 #head {
   color: #002244;
   font-size: 26px;
