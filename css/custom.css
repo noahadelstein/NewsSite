@@ -11,6 +11,9 @@
   padding-right: 900px;
 
 }
+section {
+  height: 0px;
+}
 input, textarea{
   font-size: 120%;
   color: #002244;
