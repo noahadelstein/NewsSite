@@ -36,21 +36,15 @@ input:focus, input:hover, textarea:hover, textarea:focus {
 padding-top: 280px;
   z-index: 100;
 }
-.dark {
-  font-weight: bold;
 
-}
-#Other {
+#News {
   color: #002244;
   font-size: 30px;
 }
-#dark {
+#About {
   font-size: 30px;
 }
-#hello {
 
-
-}
 background-repeat: no-repeat;
 background-position: center 400px;
 html, body {
